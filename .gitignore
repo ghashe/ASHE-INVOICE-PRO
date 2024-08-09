@@ -1,0 +1,11 @@
+# Node Modules
+node_modules/
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+
+# Logs
+*.log
