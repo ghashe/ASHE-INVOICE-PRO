@@ -73,7 +73,7 @@ ASHE Invoice Generator Web App is more than just an invoicing tool; it is a comp
 For more information and to subscribe, visit our website at [my-website-link].
 
 ```
-ProfessionalInvoiceGenerator/
+ASHE-INVOICE-PRO/
 ├── backend/
 │   ├── 📂node_modules/
 │   ├── 📄 .env # Environment variables configuration file
